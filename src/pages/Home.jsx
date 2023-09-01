@@ -1,6 +1,6 @@
 // import React from 'react'
 
-import Footer from "../components/Footer"
+
 import Homepage1 from "../Innerpages/Homepage1"
 import Homepage2 from "../Innerpages/Homepage2"
 import Homepage3 from "../Innerpages/Homepage3"
@@ -16,7 +16,7 @@ function Home() {
       <Homepage3/>
       <Homepage4/>
       <Homepage5/>
-      <Footer/>
+    
       
     </div>
   )
